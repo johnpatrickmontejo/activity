@@ -1,0 +1,26 @@
+
+button {
+	font-size:14;
+	text-align: center;
+	border-radius: 4px;
+	padding: 30px;
+}
+.t1{
+	border-collapse: collapse;
+	background-color:#1E90FF;
+	border: 5px solid #808080;
+	border-radius: 5px;
+	color: white;
+}
+
+td { 
+padding: 5px 5px;
+}
+
+.clear {
+	padding: 26px 90px;
+}
+
+.zero {
+	padding: 26px 70px;
+}
